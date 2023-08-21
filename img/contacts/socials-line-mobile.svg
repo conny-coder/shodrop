@@ -1,0 +1,17 @@
+<svg width="388" height="862" viewBox="0 0 388 862" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M51.0778 22.2418C51.0778 22.2418 283.317 -51.9518 301.296 79.9994" stroke="white" stroke-width="2.28994" stroke-dasharray="11.45 11.45"/>
+<path d="M314.299 109.57C314.299 109.57 98.2266 71.8784 74.0218 255.66" stroke="white" stroke-width="2.28994" stroke-dasharray="11.45 11.45"/>
+<path d="M114.002 646.756C114.002 646.756 222.382 598.766 307.654 717.505" stroke="white" stroke-width="2.28994" stroke-dasharray="11.45 11.45"/>
+<path d="M256.309 494.709C256.309 494.709 438.356 520.448 319.906 732.612" stroke="white" stroke-width="2.28994" stroke-dasharray="11.45 11.45"/>
+<path d="M65.7321 270.955C65.7321 270.955 66.3929 399.097 156.319 385.362C156.319 385.362 225.265 371.618 257.174 333.938C291.462 293.45 232.727 248.079 194.345 270.487C194.345 270.487 142.142 291.69 121.612 318.942C80.9385 372.933 102.285 459.373 171.843 480.921" stroke="white" stroke-width="2.28994" stroke-dasharray="11.45 11.45"/>
+<path d="M82.1625 728.409C82.1625 728.409 82.5048 827.392 233 839" stroke="white" stroke-width="2.28994" stroke-dasharray="11.45 11.45"/>
+<ellipse cx="38" cy="22.0001" rx="15.0001" ry="15" transform="rotate(90 38 22.0001)" fill="#590DA6"/>
+<ellipse cx="191" cy="273" rx="15.0001" ry="15" transform="rotate(90 191 273)" fill="url(#paint0_linear_35_17197)"/>
+<ellipse cx="241" cy="844" rx="15.0001" ry="15" transform="rotate(90 241 844)" fill="#D43F8D"/>
+<defs>
+<linearGradient id="paint0_linear_35_17197" x1="176" y1="273" x2="206" y2="273" gradientUnits="userSpaceOnUse">
+<stop offset="0.253125" stop-color="#590DA6"/>
+<stop offset="1" stop-color="#D43F8D"/>
+</linearGradient>
+</defs>
+</svg>
